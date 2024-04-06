@@ -1,0 +1,1 @@
+# vitruveo-protocol-checkpoints
